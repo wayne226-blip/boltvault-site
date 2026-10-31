@@ -1,0 +1,71 @@
+{
+ "updated": "2026-10-28",
+ "upcoming": [
+  {
+   "date": "2026-10-23",
+   "name": "Deck Crafter's Collection",
+   "kind": "Collection",
+   "star": false,
+   "note": "40 tournament staples and a Meowth ex foil."
+  },
+  {
+   "date": "2026-10-24",
+   "name": "Delta Reign prerelease",
+   "kind": "Event",
+   "star": false,
+   "note": "Build & Battle Boxes at local game shops."
+  },
+  {
+   "date": "2026-10-30",
+   "name": "30th Celebration Battle Deck: Espeon ex & Umbreon ex",
+   "kind": "Deck",
+   "star": false,
+   "note": "Ready-to-play deck."
+  },
+  {
+   "date": "2026-11-06",
+   "name": "Mega Evolution: Delta Reign",
+   "kind": "Main set",
+   "star": true,
+   "note": "The next main set. Headliner: Mega Rayquaza ex. Packs, ETBs, bundles and collections. English version of Japan's \"Storm Emeralda\"."
+  },
+  {
+   "date": "2026-11-06",
+   "name": "30th Celebration Ultra-Premium Collection",
+   "kind": "Premium",
+   "star": true,
+   "note": "Anniversary premium box."
+  },
+  {
+   "date": "2026-11-06",
+   "name": "30th Celebration Ditto Premium & Figure Collections",
+   "kind": "Collection",
+   "star": false,
+   "note": "Anniversary boxes with figures."
+  },
+  {
+   "date": "2026-12-04",
+   "name": "30th Celebration Binder Collection",
+   "kind": "Collection",
+   "star": false,
+   "note": "Packs and a binder."
+  }
+ ],
+ "later": [
+  {
+   "when": "Early 2027 (expected, not confirmed)",
+   "name": "English version of \"Aura Seeker\"",
+   "note": "Led by Mega Lucario. Expected January 2027."
+  },
+  {
+   "when": "Later 2027 (expected)",
+   "name": "English version of \"MEGA x MEGA Parade\"",
+   "note": "Out in Japan around February 2027."
+  },
+  {
+   "when": "Still waiting",
+   "name": "Mega Forces tins",
+   "note": "Delayed. Expected late 2026."
+  }
+ ]
+}
